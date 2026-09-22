@@ -30,10 +30,10 @@
 ---
 
 ### 💫 About Me
-- 🔭 **Current Focus:** Working on **MedConnet** & Android mobile applications with **Kotlin**
-- 🌱 **Learning & Growing:** Exploring Advanced **JavaScript**, **React Native**, and Cloud Architecture
+- 🔭 **Current Focus:** Working on **medc..** web & mobile applications.
+- 🌱 **Learning & Growing:** Exploring Advanced **JavaScript**, **React % Next.js**, and Cloud Architecture
 - 💬 **Ask Me About:** Web Development, Mobile Apps, Innovation & UI/UX
-- ⚡ **Fun Fact:** I love **Chapati** & **Roll-eggs** 🍳
+
 
 ---
 
