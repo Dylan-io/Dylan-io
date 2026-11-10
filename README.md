@@ -1,7 +1,3 @@
-### hello ###
-
-how are You 
-
 
 # Hi, I'm Dylan 👋
 
