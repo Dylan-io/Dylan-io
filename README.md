@@ -7,8 +7,8 @@ I build scalable web applications, enterprise systems, and digital solutions tha
 
 ## 🛠️ Stack
 
-* **Backend:** NODE · Laravel · Python
-* **Frontend:** JavaScript · Vue.js · REACT . TAILWIND
+* **Backend:** Node 
+* **Frontend:** JavaScript · Vue.js · React . TAILWIND
 * **Database:** MySQL · PostgreSQL · MongoDB
 * **Business:** ERP · Odoo · REST APIs · Automation
 
